@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shriyashpandey
 - 👀 I’m interested in Web3 community management, DAO, Content creation & DeFi.
-- 🌱 I’m currently learning smart contract developement using Solidity.
-- 💞️ I’m looking to collaborate on, I don't know 
+- 🌱 Have close to 4 years of experience in Developer growth marketing, currently working at BNB Chain
+- 💞️ Currently learning Full-Stack data science.
 - 📫 How to reach me - Twitter - @shriyashpandit , LinkedIn - Shriyash Pandey
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shriyashpandey
 - 👀 I’m interested in Web3 community management, DAO, Content creation & DeFi.
-- 🌱 Have close to 4 years of experience in Developer growth marketing, currently working at BNB Chain
+- 🌱 Have close to 6 years of experience in Developer growth marketing, currently working at Ava Labd
 - 💞️ Currently learning Full-Stack data science.
 - 📫 How to reach me - Twitter - @shriyashpandit , LinkedIn - Shriyash Pandey
 
